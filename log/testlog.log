@@ -1,0 +1,7 @@
+2022-11-24 12:56:14,841 - Log4jExample -INFO - setup method is started
+2022-11-24 12:56:14,851 - Log4jExample -INFO - setup method is progressing
+2022-11-24 12:56:14,888 - Log4jExample -INFO - login is started
+2022-11-24 12:56:14,892 - Log4jExample -INFO - login method is is progress
+2022-11-24 12:56:14,893 - Log4jExample -INFO - login method is completed
+2022-11-24 12:56:14,895 - Log4jExample -INFO - login method is passed
+2022-11-24 12:56:14,914 - Log4jExample -INFO - logout method is completed

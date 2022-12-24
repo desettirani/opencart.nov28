@@ -1,0 +1,98 @@
+16:18:37.852 [main] INFO  testcase.TC_001_RegistrationPage - ***** Stating TC_001_RegistrationPage *****
+16:18:38.018 [main] INFO  testcase.TC_001_RegistrationPage - clicked my accouont lilnk
+16:18:38.685 [main] INFO  testcase.TC_001_RegistrationPage - clicked on register link
+16:18:38.691 [main] INFO  testcase.TC_001_RegistrationPage - providing customer data
+16:18:49.472 [main] INFO  testcase.TC_001_RegistrationPage - click continue
+16:18:49.472 [main] INFO  testcase.TC_001_RegistrationPage - Validated expected message
+16:18:49.472 [main] INFO  testcase.TC_001_RegistrationPage - finshed tc
+16:22:21.573 [main] INFO  testcase.TC_001_RegistrationPage - ***** Stating TC_001_RegistrationPage *****
+16:22:21.773 [main] INFO  testcase.TC_001_RegistrationPage - clicked my accouont lilnk
+16:22:22.589 [main] INFO  testcase.TC_001_RegistrationPage - clicked on register link
+16:22:22.596 [main] INFO  testcase.TC_001_RegistrationPage - providing customer data
+16:22:33.717 [main] INFO  testcase.TC_001_RegistrationPage - click continue
+16:22:33.718 [main] INFO  testcase.TC_001_RegistrationPage - Validated expected message
+16:22:33.719 [main] INFO  testcase.TC_001_RegistrationPage - finshed tc
+17:04:15.052 [TestNG-tests-2] INFO  testcase.TC_001_RegistrationPage - ***** Stating TC_001_RegistrationPage *****
+17:04:15.259 [TestNG-tests-2] INFO  testcase.TC_001_RegistrationPage - clicked my accouont lilnk
+17:04:16.425 [TestNG-tests-2] INFO  testcase.TC_001_RegistrationPage - clicked on register link
+17:04:16.431 [TestNG-tests-2] INFO  testcase.TC_001_RegistrationPage - providing customer data
+17:04:21.972 [TestNG-tests-1] INFO  testcase.TC_001_RegistrationPage - ***** Stating TC_001_RegistrationPage *****
+17:04:22.271 [TestNG-tests-1] INFO  testcase.TC_001_RegistrationPage - clicked my accouont lilnk
+17:04:24.653 [TestNG-tests-1] INFO  testcase.TC_001_RegistrationPage - clicked on register link
+17:04:24.655 [TestNG-tests-1] INFO  testcase.TC_001_RegistrationPage - providing customer data
+17:04:27.768 [TestNG-tests-2] INFO  testcase.TC_001_RegistrationPage - click continue
+17:04:27.769 [TestNG-tests-2] INFO  testcase.TC_001_RegistrationPage - Validated expected message
+17:04:27.769 [TestNG-tests-2] INFO  testcase.TC_001_RegistrationPage - finshed tc
+17:04:35.088 [TestNG-tests-1] INFO  testcase.TC_001_RegistrationPage - click continue
+17:04:35.088 [TestNG-tests-1] INFO  testcase.TC_001_RegistrationPage - Validated expected message
+17:04:35.089 [TestNG-tests-1] INFO  testcase.TC_001_RegistrationPage - finshed tc
+11:18:30.351 [TestNG-tests-2] INFO  testcase.TC_001_RegistrationPage - ***** Stating TC_001_RegistrationPage *****
+11:18:30.765 [TestNG-tests-2] INFO  testcase.TC_001_RegistrationPage - clicked my accouont lilnk
+11:18:32.028 [TestNG-tests-2] INFO  testcase.TC_001_RegistrationPage - clicked on register link
+11:18:32.032 [TestNG-tests-2] INFO  testcase.TC_001_RegistrationPage - providing customer data
+11:18:34.108 [TestNG-tests-1] INFO  testcase.TC_001_RegistrationPage - ***** Stating TC_001_RegistrationPage *****
+11:18:34.404 [TestNG-tests-1] INFO  testcase.TC_001_RegistrationPage - clicked my accouont lilnk
+11:18:35.051 [TestNG-tests-1] INFO  testcase.TC_001_RegistrationPage - clicked on register link
+11:18:35.057 [TestNG-tests-1] INFO  testcase.TC_001_RegistrationPage - providing customer data
+11:18:43.620 [TestNG-tests-2] INFO  testcase.TC_001_RegistrationPage - click continue
+11:18:43.620 [TestNG-tests-2] INFO  testcase.TC_001_RegistrationPage - Validated expected message
+11:18:43.620 [TestNG-tests-2] INFO  testcase.TC_001_RegistrationPage - finshed tc
+11:18:45.546 [TestNG-tests-1] INFO  testcase.TC_001_RegistrationPage - click continue
+11:18:45.546 [TestNG-tests-1] INFO  testcase.TC_001_RegistrationPage - Validated expected message
+11:18:45.547 [TestNG-tests-1] INFO  testcase.TC_001_RegistrationPage - finshed tc
+11:29:02.413 [main] INFO  testcase.TC_001_RegistrationPage - ***** Stating TC_001_RegistrationPage *****
+11:29:02.857 [main] INFO  testcase.TC_001_RegistrationPage - clicked my accouont lilnk
+11:29:03.523 [main] INFO  testcase.TC_001_RegistrationPage - clicked on register link
+11:29:03.526 [main] INFO  testcase.TC_001_RegistrationPage - providing customer data
+11:29:14.089 [main] INFO  testcase.TC_001_RegistrationPage - click continue
+11:29:14.090 [main] INFO  testcase.TC_001_RegistrationPage - Validated expected message
+11:29:14.090 [main] INFO  testcase.TC_001_RegistrationPage - finshed tc
+11:31:04.066 [main] INFO  testcase.TC_001_RegistrationPage - ***** Stating TC_001_RegistrationPage *****
+11:31:04.429 [main] INFO  testcase.TC_001_RegistrationPage - clicked my accouont lilnk
+11:31:05.571 [main] INFO  testcase.TC_001_RegistrationPage - clicked on register link
+11:31:05.574 [main] INFO  testcase.TC_001_RegistrationPage - providing customer data
+11:31:16.068 [main] INFO  testcase.TC_001_RegistrationPage - click continue
+11:31:16.069 [main] INFO  testcase.TC_001_RegistrationPage - Validated expected message
+11:31:16.069 [main] INFO  testcase.TC_001_RegistrationPage - finshed tc
+14:03:09.513 [TestNG-tests-2] INFO  testcase.TC_001_RegistrationPage - ***** Stating TC_001_RegistrationPage *****
+14:03:10.486 [TestNG-tests-2] INFO  testcase.TC_001_RegistrationPage - clicked my accouont lilnk
+14:03:12.581 [TestNG-tests-2] INFO  testcase.TC_001_RegistrationPage - clicked on register link
+14:03:12.585 [TestNG-tests-2] INFO  testcase.TC_001_RegistrationPage - providing customer data
+14:03:13.719 [TestNG-tests-1] INFO  testcase.TC_001_RegistrationPage - ***** Stating TC_001_RegistrationPage *****
+14:03:14.065 [TestNG-tests-1] INFO  testcase.TC_001_RegistrationPage - clicked my accouont lilnk
+14:03:14.764 [TestNG-tests-1] INFO  testcase.TC_001_RegistrationPage - clicked on register link
+14:03:14.766 [TestNG-tests-1] INFO  testcase.TC_001_RegistrationPage - providing customer data
+14:03:24.131 [TestNG-tests-2] INFO  testcase.TC_001_RegistrationPage - click continue
+14:03:24.131 [TestNG-tests-2] INFO  testcase.TC_001_RegistrationPage - Validated expected message
+14:03:24.132 [TestNG-tests-2] INFO  testcase.TC_001_RegistrationPage - finshed tc
+14:03:25.268 [TestNG-tests-1] INFO  testcase.TC_001_RegistrationPage - click continue
+14:03:25.268 [TestNG-tests-1] INFO  testcase.TC_001_RegistrationPage - Validated expected message
+14:03:25.268 [TestNG-tests-1] INFO  testcase.TC_001_RegistrationPage - finshed tc
+14:37:17.632 [main] INFO  testcase.TC_001_RegistrationPage - ***** Stating TC_001_RegistrationPage *****
+14:37:17.991 [main] INFO  testcase.TC_001_RegistrationPage - clicked my accouont lilnk
+14:37:18.793 [main] INFO  testcase.TC_001_RegistrationPage - clicked on register link
+14:37:18.799 [main] INFO  testcase.TC_001_RegistrationPage - providing customer data
+14:37:29.304 [main] INFO  testcase.TC_001_RegistrationPage - click continue
+14:37:29.305 [main] INFO  testcase.TC_001_RegistrationPage - Validated expected message
+14:37:29.305 [main] INFO  testcase.TC_001_RegistrationPage - finshed tc
+16:42:09.070 [main] INFO  testcase.TC_001_RegistrationPage - ***** Stating TC_001_RegistrationPage *****
+16:42:09.419 [main] INFO  testcase.TC_001_RegistrationPage - clicked my accouont lilnk
+16:42:10.043 [main] INFO  testcase.TC_001_RegistrationPage - clicked on register link
+16:42:10.052 [main] INFO  testcase.TC_001_RegistrationPage - providing customer data
+16:42:20.708 [main] INFO  testcase.TC_001_RegistrationPage - click continue
+16:42:20.708 [main] INFO  testcase.TC_001_RegistrationPage - Validated expected message
+16:42:20.708 [main] INFO  testcase.TC_001_RegistrationPage - finshed tc
+16:56:52.932 [main] INFO  testcase.TC_001_RegistrationPage - ***** Stating TC_001_RegistrationPage *****
+16:56:53.249 [main] INFO  testcase.TC_001_RegistrationPage - clicked my accouont lilnk
+16:56:53.895 [main] INFO  testcase.TC_001_RegistrationPage - clicked on register link
+16:56:53.906 [main] INFO  testcase.TC_001_RegistrationPage - providing customer data
+16:57:04.328 [main] INFO  testcase.TC_001_RegistrationPage - click continue
+16:57:04.329 [main] INFO  testcase.TC_001_RegistrationPage - Validated expected message
+16:57:04.329 [main] INFO  testcase.TC_001_RegistrationPage - finshed tc
+17:14:42.686 [main] INFO  testcase.TC_001_RegistrationPage - ***** Stating TC_001_RegistrationPage *****
+17:14:43.045 [main] INFO  testcase.TC_001_RegistrationPage - clicked my accouont lilnk
+17:14:44.614 [main] INFO  testcase.TC_001_RegistrationPage - clicked on register link
+17:14:44.628 [main] INFO  testcase.TC_001_RegistrationPage - providing customer data
+17:14:55.081 [main] INFO  testcase.TC_001_RegistrationPage - click continue
+17:14:55.082 [main] INFO  testcase.TC_001_RegistrationPage - Validated expected message
+17:14:55.082 [main] INFO  testcase.TC_001_RegistrationPage - finshed tc
