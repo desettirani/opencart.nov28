@@ -7,7 +7,7 @@
 <listener class-name="utilities.ExtenReportManger"/>
 </listeners>
   <test thread-count="5" name="opencartTest">
-   <parameter name="browser" value="chome"></parameter>
+   <parameter name="browser" value="chrome"></parameter>
     <classes>
       <class name="testcase.TC_001_RegistrationPage"/>
     </classes>
